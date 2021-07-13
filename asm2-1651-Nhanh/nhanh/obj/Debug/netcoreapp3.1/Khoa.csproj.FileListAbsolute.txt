@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\Khoa\Khoa\bin\Debug\netcoreapp3.1\Khoa.exe
+C:\Users\PC\source\repos\Khoa\Khoa\bin\Debug\netcoreapp3.1\Khoa.deps.json
+C:\Users\PC\source\repos\Khoa\Khoa\bin\Debug\netcoreapp3.1\Khoa.runtimeconfig.json
+C:\Users\PC\source\repos\Khoa\Khoa\bin\Debug\netcoreapp3.1\Khoa.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Khoa\Khoa\bin\Debug\netcoreapp3.1\Khoa.dll
+C:\Users\PC\source\repos\Khoa\Khoa\bin\Debug\netcoreapp3.1\Khoa.pdb
+C:\Users\PC\source\repos\Khoa\Khoa\obj\Debug\netcoreapp3.1\Khoa.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Khoa\Khoa\obj\Debug\netcoreapp3.1\Khoa.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Khoa\Khoa\obj\Debug\netcoreapp3.1\Khoa.AssemblyInfo.cs
+C:\Users\PC\source\repos\Khoa\Khoa\obj\Debug\netcoreapp3.1\Khoa.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Khoa\Khoa\obj\Debug\netcoreapp3.1\Khoa.dll
+C:\Users\PC\source\repos\Khoa\Khoa\obj\Debug\netcoreapp3.1\Khoa.pdb
+C:\Users\PC\source\repos\Khoa\Khoa\obj\Debug\netcoreapp3.1\Khoa.genruntimeconfig.cache

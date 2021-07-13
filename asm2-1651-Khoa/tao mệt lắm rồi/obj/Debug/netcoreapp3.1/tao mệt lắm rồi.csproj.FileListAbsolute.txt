@@ -1,0 +1,13 @@
+D:\Desktop\tao mệt lắm rồi\tao mệt lắm rồi\bin\Debug\netcoreapp3.1\tao mệt lắm rồi.exe
+D:\Desktop\tao mệt lắm rồi\tao mệt lắm rồi\bin\Debug\netcoreapp3.1\tao mệt lắm rồi.deps.json
+D:\Desktop\tao mệt lắm rồi\tao mệt lắm rồi\bin\Debug\netcoreapp3.1\tao mệt lắm rồi.runtimeconfig.json
+D:\Desktop\tao mệt lắm rồi\tao mệt lắm rồi\bin\Debug\netcoreapp3.1\tao mệt lắm rồi.runtimeconfig.dev.json
+D:\Desktop\tao mệt lắm rồi\tao mệt lắm rồi\bin\Debug\netcoreapp3.1\tao mệt lắm rồi.dll
+D:\Desktop\tao mệt lắm rồi\tao mệt lắm rồi\bin\Debug\netcoreapp3.1\tao mệt lắm rồi.pdb
+D:\Desktop\tao mệt lắm rồi\tao mệt lắm rồi\obj\Debug\netcoreapp3.1\tao mệt lắm rồi.csprojAssemblyReference.cache
+D:\Desktop\tao mệt lắm rồi\tao mệt lắm rồi\obj\Debug\netcoreapp3.1\tao mệt lắm rồi.AssemblyInfoInputs.cache
+D:\Desktop\tao mệt lắm rồi\tao mệt lắm rồi\obj\Debug\netcoreapp3.1\tao mệt lắm rồi.AssemblyInfo.cs
+D:\Desktop\tao mệt lắm rồi\tao mệt lắm rồi\obj\Debug\netcoreapp3.1\tao mệt lắm rồi.csproj.CoreCompileInputs.cache
+D:\Desktop\tao mệt lắm rồi\tao mệt lắm rồi\obj\Debug\netcoreapp3.1\tao mệt lắm rồi.dll
+D:\Desktop\tao mệt lắm rồi\tao mệt lắm rồi\obj\Debug\netcoreapp3.1\tao mệt lắm rồi.pdb
+D:\Desktop\tao mệt lắm rồi\tao mệt lắm rồi\obj\Debug\netcoreapp3.1\tao mệt lắm rồi.genruntimeconfig.cache
